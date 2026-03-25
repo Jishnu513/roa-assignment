@@ -1,0 +1,16 @@
+{
+  "pythonVersion": "3.12",
+  "pythonPlatform": "Windows",
+  "venvPath": "C:\\Users\\jishn\\AppData\\Local\\Programs\\Python",
+  "extraPaths": [
+    "C:\\Users\\jishn\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages"
+  ],
+  "typeCheckingMode": "off",
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none",
+  "reportUndefinedVariable": "none",
+  "reportGeneralTypeIssues": "none",
+  "reportOptionalMemberAccess": "none",
+  "reportAttributeAccessIssue": "none",
+  "ignore": ["**/*"]
+}
